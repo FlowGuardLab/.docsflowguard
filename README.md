@@ -128,7 +128,7 @@ FlowGuard is actively being built, and we thrive on the insights of engineers, a
 
 ---
 
-### 🌐 Quick Links (Coming Soon)
+### 🌐 Quick Links 
 
 **[Documentation](https://flowguard-docs.vercel.app/)** • **[Website](https://www.google.com/search?q=%23)** • **[Product](https://www.google.com/search?q=%23)** • **[Community](https://www.google.com/search?q=%23)**
 
