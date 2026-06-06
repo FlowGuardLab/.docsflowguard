@@ -130,6 +130,6 @@ FlowGuard is actively being built, and we thrive on the insights of engineers, a
 
 ### 🌐 Quick Links (Coming Soon)
 
-**[Documentation](https://www.google.com/search?q=%23)** • **[Website](https://www.google.com/search?q=%23)** • **[Product](https://www.google.com/search?q=%23)** • **[Community](https://www.google.com/search?q=%23)**
+**[Documentation](https://flowguard-docs.vercel.app/)** • **[Website](https://www.google.com/search?q=%23)** • **[Product](https://www.google.com/search?q=%23)** • **[Community](https://www.google.com/search?q=%23)**
 
 *Build reliable automations. Prevent failures before production.*
